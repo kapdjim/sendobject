@@ -498,3 +498,205 @@ LogInit: Object subsystem initialized
 [2018.09.14-22.42.55:547][888]LogSavePackage: Save=9.01ms
 [2018.09.14-22.42.55:547][888]LogSavePackage: Moving '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/NewMap_BuiltDataD33757AD48FDE5620C1DF7A9891B6913.tmp' to '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Content/Maps/NewMap_BuiltData.uasset'
 [2018.09.14-22.42.55:548][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ucef/Documents/GitHub/sendobject/Content/Maps/NewMap_BuiltData.uasset
+[2018.09.14-22.44.49:355][835]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-22.44.50:461][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-22.44.53:907][355]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-22.44.54:519][425]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.09.14-22.46.28:438][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.46.47:578][894]LogEditorViewport: Clicking on Actor (LMB): tourelle_C (tourelle2)
+[2018.09.14-22.46.48:418][985]LogEditorViewport: Clicking on Actor (LMB): tourelle_C (tourelle)
+[2018.09.14-22.46.51:596][350]LogEditorViewport: Clicking on Actor (LMB): tourelle_C (tourelle2)
+[2018.09.14-22.46.54:217][654]Cmd: DELETE
+[2018.09.14-22.46.54:217][654]Cmd: ACTOR DELETE
+[2018.09.14-22.46.54:475][654]LogEditorActor: Deleted Actor: tourelle_C
+[2018.09.14-22.46.54:476][654]LogEditorActor: Deleted Actor: tourelle_C
+[2018.09.14-22.46.54:487][654]LogEditorActor: Deleted 2 Actors (0.067 secs)
+[2018.09.14-22.46.55:932][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.14-22.46.56:297][859]LogEditorViewport: Clicking on Actor (LMB): MAN_C (MAN)
+[2018.09.14-22.46.56:971][935]Cmd: DELETE
+[2018.09.14-22.46.56:971][935]Cmd: ACTOR DELETE
+[2018.09.14-22.46.56:972][935]LogEditorActor: Deleted Actor: MAN_C
+[2018.09.14-22.46.56:983][935]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.09.14-22.46.57:422][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.14-22.48.32:485][496]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-22.48.41:331][385]LogActorFactory: Actor Factory created Old_house
+[2018.09.14-22.48.43:238][589]LogActorFactory: Actor Factory created Old_house
+[2018.09.14-22.48.45:395][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.48.47:545][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.48.47:645][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-22.48.47:666][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-22.48.47:729][ 97]PIE: New page: PIE session: NewMap (15 sept. 2018 00:48:47)
+[2018.09.14-22.48.47:729][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.09.14-22.48.47:733][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003568s)
+[2018.09.14-22.48.47:734][ 97]LogAIModule: Creating AISystem for world NewMap
+[2018.09.14-22.48.47:734][ 97]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2018.09.14-22.48.47:734][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004616s)
+[2018.09.14-22.48.47:748][ 97]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-22.48.47:755][ 97]LogInit: FAudioDevice initialized.
+[2018.09.14-22.48.47:797][ 97]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-22.48.47:812][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.09.14-23.48.47
+[2018.09.14-22.48.47:812][ 97]LogWorld: Bringing up level for play took: 0.000820
+[2018.09.14-22.48.47:901][ 97]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.09.14-22.48.47:931][ 97]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0,569
+[2018.09.14-22.48.55:297][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.49.02:547][713]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Old_house)
+[2018.09.14-22.49.02:697][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-22.49.04:335][890]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-22.49.04:378][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-22.49.06:861][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.49.08:563][ 99]LogRenderer: Reallocating scene render targets to support 804x612 Format 10 NumSamples 1 (Frame:1).
+[2018.09.14-22.49.21:685][801]LogSlate: Window 'Old_house' being destroyed
+[2018.09.14-22.49.22:060][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.49.24:295][980]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-22.49.24:307][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-22.49.24:307][980]PIE: New page: PIE session: NewMap (15 sept. 2018 00:49:24)
+[2018.09.14-22.49.24:307][980]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.09.14-22.49.24:309][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002149s)
+[2018.09.14-22.49.24:310][980]LogAIModule: Creating AISystem for world NewMap
+[2018.09.14-22.49.24:310][980]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2018.09.14-22.49.24:310][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003204s)
+[2018.09.14-22.49.24:325][980]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-22.49.24:330][980]LogInit: FAudioDevice initialized.
+[2018.09.14-22.49.24:360][980]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-22.49.24:361][980]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.09.14-23.49.24
+[2018.09.14-22.49.24:362][980]LogWorld: Bringing up level for play took: 0.000706
+[2018.09.14-22.49.24:363][980]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 1,001
+[2018.09.14-22.49.33:807][967]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.09.14-22.49.41:382][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.49.41:841][468]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-22.49.41:853][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-22.49.41:853][468]PIE: New page: PIE session: NewMap (15 sept. 2018 00:49:41)
+[2018.09.14-22.49.41:853][468]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.09.14-22.49.41:855][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002206s)
+[2018.09.14-22.49.41:856][468]LogAIModule: Creating AISystem for world NewMap
+[2018.09.14-22.49.41:856][468]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.09.14-22.49.41:856][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003179s)
+[2018.09.14-22.49.41:870][468]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-22.49.41:875][468]LogInit: FAudioDevice initialized.
+[2018.09.14-22.49.41:904][468]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-22.49.41:905][468]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.09.14-23.49.41
+[2018.09.14-22.49.41:906][468]LogWorld: Bringing up level for play took: 0.000690
+[2018.09.14-22.49.41:907][468]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0,544
+[2018.09.14-22.49.50:676][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Old_house)
+[2018.09.14-22.49.51:004][414]Cmd: DELETE
+[2018.09.14-22.49.51:004][414]Cmd: ACTOR DELETE
+[2018.09.14-22.49.51:005][414]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.14-22.49.51:018][414]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.09.14-22.49.52:130][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.50.07:520][395]LogSlate: Window 'Save Asset As' being destroyed
+[2018.09.14-22.50.14:332][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.50.16:546][ 75]LogSlate: Window 'Material Baking Options' being destroyed
+[2018.09.14-22.50.33:313][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.51.02:811][564]LogActorFactory: Actor Factory created Old_house
+[2018.09.14-22.51.04:208][659]LogActorFactory: Actor Factory created Old_house
+[2018.09.14-22.51.04:854][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.51.04:943][706]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-22.51.04:955][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-22.51.04:955][706]PIE: New page: PIE session: NewMap (15 sept. 2018 00:51:04)
+[2018.09.14-22.51.04:955][706]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.09.14-22.51.04:958][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002481s)
+[2018.09.14-22.51.04:958][706]LogAIModule: Creating AISystem for world NewMap
+[2018.09.14-22.51.04:959][706]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.09.14-22.51.04:959][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003463s)
+[2018.09.14-22.51.04:973][706]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-22.51.04:979][706]LogInit: FAudioDevice initialized.
+[2018.09.14-22.51.05:011][706]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-22.51.05:012][706]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.09.14-23.51.05
+[2018.09.14-22.51.05:012][706]LogWorld: Bringing up level for play took: 0.000680
+[2018.09.14-22.51.05:013][706]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0,351
+[2018.09.14-22.51.09:830][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Old_house)
+[2018.09.14-22.51.13:969][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.51.14:059][484]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-22.51.14:072][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-22.51.14:072][484]PIE: New page: PIE session: NewMap (15 sept. 2018 00:51:14)
+[2018.09.14-22.51.14:073][484]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.09.14-22.51.14:075][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002651s)
+[2018.09.14-22.51.14:076][484]LogAIModule: Creating AISystem for world NewMap
+[2018.09.14-22.51.14:076][484]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2018.09.14-22.51.14:076][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003625s)
+[2018.09.14-22.51.14:090][484]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-22.51.14:095][484]LogInit: FAudioDevice initialized.
+[2018.09.14-22.51.14:125][484]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-22.51.14:126][484]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.09.14-23.51.14
+[2018.09.14-22.51.14:126][484]LogWorld: Bringing up level for play took: 0.000669
+[2018.09.14-22.51.14:128][484]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0,763
+[2018.09.14-22.51.22:695][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Old_house)
+[2018.09.14-22.51.23:667][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.51.38:395][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-22.51.47:832][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.52.11:562][243]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.09.14-22.52.14:679][432]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.52.15:717][494]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.52.18:026][632]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.52.20:832][802]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.52.21:833][860]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-22.52.22:570][903]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.09.14-22.52.27:163][183]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.52.29:950][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.52.31:499][445]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.52.33:245][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.52.33:357][558]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-22.52.33:369][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-22.52.33:370][558]PIE: New page: PIE session: NewMap (15 sept. 2018 00:52:33)
+[2018.09.14-22.52.33:370][558]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.09.14-22.52.33:373][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002822s)
+[2018.09.14-22.52.33:373][558]LogAIModule: Creating AISystem for world NewMap
+[2018.09.14-22.52.33:374][558]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2018.09.14-22.52.33:374][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004041s)
+[2018.09.14-22.52.33:390][558]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-22.52.33:397][558]LogInit: FAudioDevice initialized.
+[2018.09.14-22.52.33:431][558]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-22.52.33:433][558]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.09.14-23.52.33
+[2018.09.14-22.52.33:433][558]LogWorld: Bringing up level for play took: 0.000801
+[2018.09.14-22.52.33:435][558]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0,069
+[2018.09.14-22.52.37:396][979]Cmd: SELECT NONE
+[2018.09.14-22.52.43:675][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Old_house)
+[2018.09.14-22.52.44:213][381]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.09.14-22.53.00:295][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.53.04:808][954]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.53.07:585][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.53.09:928][262]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.53.12:231][398]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.53.42:055][769]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.53.44:220][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Old_house)
+[2018.09.14-22.53.44:325][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-22.53.44:359][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/Autosaves/Game/Maps/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.09.14-22.53.44:384][892]LogSavePackage: Save=22.31ms
+[2018.09.14-22.53.44:384][892]LogSavePackage: Moving '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/NewMap_Auto1BB4D33724E7F9991BE21E59D81D93EC2.tmp' to '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/Autosaves/Game/Maps/NewMap_Auto1.umap'
+[2018.09.14-22.53.44:385][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/Autosaves/Game/Maps/NewMap_Auto1.umap
+[2018.09.14-22.53.44:386][892]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.038
+[2018.09.14-22.53.44:386][892]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.038
+[2018.09.14-22.53.44:389][892]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Uploads/OLDHOUSE1/Old_house] ([1] browsable assets)...
+[2018.09.14-22.53.44:409][892]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Uploads/OLDHOUSE1/Old_house.Old_house]
+[2018.09.14-22.53.44:409][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Uploads/OLDHOUSE1/Old_house]
+[2018.09.14-22.53.44:424][892]LogSavePackage: Save=13.41ms
+[2018.09.14-22.53.44:424][892]LogSavePackage: Moving '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/Old_house_Auto1C2C65049451753DC603FD384B83E593F.tmp' to '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/Autosaves/Game/ThirdPersonBP/Uploads/OLDHOUSE1/Old_house_Auto1.uasset'
+[2018.09.14-22.53.44:425][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/Autosaves/Game/ThirdPersonBP/Uploads/OLDHOUSE1/Old_house_Auto1.uasset
+[2018.09.14-22.53.44:425][892]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.09.14-22.57.42:082][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-22.57.52:222][476]LogSlate: Window 'Save Content' being destroyed
+[2018.09.14-22.57.52:344][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/Ucef/Documents/GitHub/sendobject/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-22.57.52:377][476]LogSavePackage: Save=20.64ms
+[2018.09.14-22.57.52:377][476]LogSavePackage: Moving '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/NewMap57424AA14E714F5F9489F5B4D3B50009.tmp' to '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Content/Maps/NewMap.umap'
+[2018.09.14-22.57.52:379][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ucef/Documents/GitHub/sendobject/Content/Maps/NewMap.umap
+[2018.09.14-22.57.52:393][476]LogFileHelpers: Saving map 'NewMap' took 0.097
+[2018.09.14-22.57.52:398][476]LogSavePackage: Save=2.89ms
+[2018.09.14-22.57.52:398][476]LogSavePackage: Moving '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Saved/Old_house40F4316B4137554C6DDC34B673F1D8ED.tmp' to '../../../../../../Users/Ucef/Documents/GitHub/sendobject/Content/ThirdPersonBP/Uploads/OLDHOUSE1/Old_house.uasset'
+[2018.09.14-22.57.52:399][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ucef/Documents/GitHub/sendobject/Content/ThirdPersonBP/Uploads/OLDHOUSE1/Old_house.uasset
+[2018.09.14-22.57.52:422][476]Cmd: MAP LOAD FILE="../../../../../../Users/Ucef/Documents/GitHub/sendobject/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.14-22.57.52:422][476]LightingResults: New page: Lighting Build
+[2018.09.14-22.57.52:423][476]LoadErrors: New page: Loading map: NewMap.umap
+[2018.09.14-22.57.52:424][476]MapCheck: New page: Map Check
+[2018.09.14-22.57.52:424][476]LightingResults: New page: Lighting Build
+[2018.09.14-22.57.52:475][476]LogAIModule: Creating AISystem for world NewMap
+[2018.09.14-22.57.52:570][476]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.14-22.57.52:600][476]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.14-22.57.52:651][476]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50,77ms to complete.
+[2018.09.14-22.57.52:653][476]LogFileHelpers: Loading map 'NewMap' took 0.252
+[2018.09.14-22.57.52:654][476]LoadErrors: Error: /Game/Maps/NewMap : Failed import for MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData Referenced by export Level /Game/Maps/NewMap.NewMap:PersistentLevel
+[2018.09.14-22.57.55:672][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Old_house)
+[2018.09.14-22.57.59:319][847]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.09.14-22.58.01:427][963]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.58.04:291][126]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.58.26:484][407]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.14-22.58.29:498][580]LogNavigationPoint: PostEditMove Clear paths rebuilt
