@@ -336,3 +336,11 @@ LogInit: Object subsystem initialized
 [2018.09.14-18.32.13:733][384]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2018.09.14-18.32.15:121][384]LogSlate: Window 'Pick Parent Class' being destroyed
 [2018.09.14-18.32.27:712][591]LogSlate: Window 'Source Control Login' being destroyed
+[2018.09.14-18.33.38:083][964]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.09.14-18.33.40:816][964]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.14-18.33.40:983][973]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.09.14-18.36.03:661][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/testgit" FILE="../../../../../../Users/ASUS/Documents/Unreal Projects/sendobject/Content/Geometry/Meshes/testgit.uasset" SILENT=true
+[2018.09.14-18.36.03:668][307]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/Unreal Projects/sendobject/Saved/testgit5C6D383745CD2EDABFB0F0A8B14A6B91.tmp' to '../../../../../../Users/ASUS/Documents/Unreal Projects/sendobject/Content/Geometry/Meshes/testgit.uasset'
+[2018.09.14-18.36.35:839][858]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.14-18.36.57:149][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/uhkhkj" FILE="../../../../../../Users/ASUS/Documents/Unreal Projects/sendobject/Content/Geometry/Meshes/uhkhkj.uasset" SILENT=true
+[2018.09.14-18.36.57:167][223]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/Unreal Projects/sendobject/Saved/uhkhkj6C08607A403E1F555C936791FE4AB2F8.tmp' to '../../../../../../Users/ASUS/Documents/Unreal Projects/sendobject/Content/Geometry/Meshes/uhkhkj.uasset'
